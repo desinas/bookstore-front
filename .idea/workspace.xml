@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d40f5907-aa5c-44d0-ad6a-58edc242f270" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" afterPath="$PROJECT_DIR$/src/app/app-routing.module.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.component.html" afterPath="$PROJECT_DIR$/src/app/app.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/book-detail/book-detail.component.html" afterPath="$PROJECT_DIR$/src/app/book-detail/book-detail.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/book-detail/book-detail.component.ts" afterPath="$PROJECT_DIR$/src/app/book-detail/book-detail.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/book-form/book-form.component.html" afterPath="$PROJECT_DIR$/src/app/book-form/book-form.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/book-form/book-form.component.ts" afterPath="$PROJECT_DIR$/src/app/book-form/book-form.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/book-list/book-list.component.html" afterPath="$PROJECT_DIR$/src/app/book-list/book-list.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/book-list/book-list.component.ts" afterPath="$PROJECT_DIR$/src/app/book-list/book-list.component.ts" />
-    </list>
+    <list default="true" id="d40f5907-aa5c-44d0-ad6a-58edc242f270" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/dist/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -270,12 +261,12 @@
       <option name="presentableId" value="Default" />
       <updated>1515059583012</updated>
       <workItem from="1515059584483" duration="3746000" />
-      <workItem from="1515071429621" duration="1844000" />
+      <workItem from="1515071429621" duration="2069000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5590000" />
+    <option name="totallyTimeSpent" value="5815000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="60" y="43" width="1347" height="833" extended-state="0" />
