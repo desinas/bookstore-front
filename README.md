@@ -8,6 +8,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 - __Navigation through components (pages)__ RouterLink in Templates Router API in TypeScript. Simple navigation, Navigation with parameters, Navigation with actions.
 
+- __Using Angular service__ for the Bookstore service and model for Invoking the Java EE Back-end.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
