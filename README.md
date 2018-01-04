@@ -4,6 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 - __Bootstrapping Angular app:__ Angular application that follows standard Node.JS directory structure and the configuration file (package.json) with Angular dependences using Yarn package manager. So that to compile and run the application on Express web server in order to add graphical components and the front-end to talk to back-end. 
 
+- __Using Angular-CLI to generate components:__ Component using HTML for the visual aspect of the app and component using Typescript in order to add behaviour in the app. The graphical components generated list all books, details of one book and a form to create a new book. Also there are components binding for connecting the two components
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
