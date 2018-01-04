@@ -6,6 +6,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 - __Using Angular-CLI to generate components:__ Component using HTML for the visual aspect of the app and component using Typescript in order to add behaviour in the app. The graphical components generated list all books, details of one book and a form to create a new book. Also there are components binding for connecting the two components
 
+- __Navigation through components (pages)__ RouterLink in Templates Router API in TypeScript. Simple navigation, Navigation with parameters, Navigation with actions.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
